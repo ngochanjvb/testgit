@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<button onclick="myFunction()">Jp Date</button>
+	<button type="button" onclick="myFunction()">Jp Date</button>
 	<p id="clock"></p>
 	<script>
 	function myFunction() {
