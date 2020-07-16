@@ -1,1 +1,11 @@
-In the delusion of a sublime beauty
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<button type="button" onclick="document.getElementById('clock').innerHTML = DATE()">date</button>
+	<p id="clock"></p>
+</body>
+</html>
