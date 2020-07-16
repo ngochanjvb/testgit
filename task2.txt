@@ -12,6 +12,6 @@
 		var d = new Date().toLocaleString("ja-JP", {timeZone: "Asia/Tokyo"});
 		document.getElementById("clock").innerHTML = d;
 	}
-</script>
+	</script>
 </body>
 </html>
